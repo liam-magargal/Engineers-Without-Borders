@@ -1,4 +1,4 @@
-[<<<Back to homepage](https://liam-magargal.github.io/Liam-Magargal/)
+[<<Back to homepage](https://liam-magargal.github.io/Liam-Magargal/)
 
 # Spring 2019 - Water Tank Sensor System/Outdoor Calinsthenics Gym
   In the spring of my first year, I joined Lehigh University's chapter of the Engineers Without Borders. I was assigned to a project to research a water level sensor for a water tank being designed by the Lehigh Valley Professional Chapter of the Engineers Without Borders in the Dominican Republic. After a few weeks of research, our chapter decided to change our project to focus on assisting the design of a fellow Lehigh student looking to construct an outdoor gym on Bethlehem's Greenway. Through this process, I learned a lot about flexibility and responding to the needs of the community or organization I am working for.
