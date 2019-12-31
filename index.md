@@ -9,4 +9,4 @@
 ![Refrigerator3](https://user-images.githubusercontent.com/59369935/71607383-041e7a00-2b47-11ea-9bec-d974e45064d9.png)
 ![Schematic](https://user-images.githubusercontent.com/59369935/71607509-092ff900-2b48-11ea-99c5-6d55f461a7b6.jpg)
 
-Images courtesey of Lehigh Engineers Without Borders
+Images courtesy of Lehigh Engineers Without Borders
